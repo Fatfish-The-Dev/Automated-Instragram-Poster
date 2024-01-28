@@ -1,2 +1,5 @@
 # Jupyter Notebook revision history
 .ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
