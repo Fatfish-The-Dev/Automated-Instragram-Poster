@@ -18,7 +18,7 @@ Approach: This will be something I do in phases ( i.e. first phase will just be 
 
 ## Features
 
-- Saving to a File so that i can keep track of the data i input data
+- Saving to a File so that i can keep track of the data i input everyday
 - Posting on Instagramm when provided inputs
 - Feature 3
 
